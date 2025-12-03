@@ -4,5 +4,5 @@ Dieser Satz wurde mit VSC verfasst.
 Dieser andere Satz wurde online verfasst.
 fetch, pull, commit, push
 Hallo Felicia
+<<<<<<< HEAD
 
-Hallo, hier ist meine Änderung an deiner Datei.
